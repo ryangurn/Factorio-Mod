@@ -1,0 +1,10 @@
+{
+  "name": "FactoryReloaded",
+  "version": "0.1",
+  "title": "Factory Reloaded",
+  "author": "ryangurn",
+  "dependencies": ["base"],
+  "contact": "ryan@ryangurnick.com",
+  "homepage":"http://ryangurnick.com",
+  "description": "An assortment of helper tools and machines"
+}
